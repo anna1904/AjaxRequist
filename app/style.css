@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(204, 255, 204);
+}
+.width-wrap{
+  max-width: 960px;
+  margin: 0px auto;
+
+}
+.articles{
+  margin-top:350px;
+
+}
+.articles__item{
+  display: inline-block;
+  width: 30%;
+  margin: 0 10px;
+
+}
+.article--title{
+
+}
+.article--text{
+  /*width: 20%;*/
+  display: inline-block;
+  margin-bottom: 30px;
+}
+.article--image{
+  width: 200px;
+  height: 150px;
+}
+/*# sourceMappingURL=main.css.map */
